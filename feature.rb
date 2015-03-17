@@ -1,5 +1,5 @@
 class NewFeature
   def initialize
-    puts "hello world"
+    puts "Hello, World"
   end
 end
